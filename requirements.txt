@@ -3,3 +3,5 @@ shutil
 random
 json
 time
+keyboard
+zipfile
