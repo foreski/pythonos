@@ -1,11 +1,15 @@
 # Foreskin - PythonOS
-A 'OS' built in Python, not sure how well it works for everyone, but i will possibly add more features in the future.
+Currently not working (Python 3.8+)
 
+Working on fixing and adding new features.
 
-After you download the files, open the file 'users.py' in 'modules/users' in edit, navigate to Line 6, Colon 10 and change 'paths = ""' to your Folder Directory
+(1/14/24)
 
-also ensure your Folder Directory is changed inside 'data.json' in 'data' and 'CopyFiles/This PC/Local Disk/data.json' change them to the Folder Directory on your pc (e.x, C:\Users\disgu\Documents\Projects\Python\PythonOS)
+# Changelog
 
+Depricating user accounts for the 'OS'
+
+Open to pull request for simple fixes or formatting for the code/files, files for copying 'os' data will be stored on my websites storage (foreskin.icu)
 # Developers
 **Foreskin**
 
